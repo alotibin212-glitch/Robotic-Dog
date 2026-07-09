@@ -1,6 +1,7 @@
 🐕 Quadruped Robot - Initial Design
 Prepared by: Noura Abbad Al-Qathami
 Technical overview of a Spot-inspired robot dog.
+
 📐 1. Body & Chassis Total Body Length: 200 mm. Chassis Angles: Hip joint tilt is 75° and thigh joint
 tilt is 20° for stability. Center of Mass (CoM): Perfectly centered with 
 symmetrically oriented knees to prevent tipping.
