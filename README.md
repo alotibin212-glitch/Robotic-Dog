@@ -1,5 +1,5 @@
 # 🐕 Quadruped Robot - Initial Design
-Prepared by: Noura Abbad Al-Qathami  
+Prepared by: Norah Al-Qathami  
 Technical overview of a Spot-inspired robot dog.
 
 ---
